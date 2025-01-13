@@ -1,1 +1,1 @@
-# UPTC_Diplomado_IA
+# Diplomado en Inteligencia Artificial
