@@ -18,5 +18,7 @@ Este repositorio está dirigido a las personas que quieran obtener algún tipo d
 
 ### 3. Visión Artificial
 
-### 4. Series temporales
+### 4. Procesamiento de Lenguaje Natural
+
+### 5. Series temporales
 
